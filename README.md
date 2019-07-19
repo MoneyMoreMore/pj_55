@@ -1,14 +1,9 @@
 # pj_55
 css
 
-**颜色值：**
 
-### echarts
+#### npm install
+#### fis3 release prod -d ./dist  发布版本(压缩代码)
 
-### amcharts4
-
-### layui
-
-### swiper
-
-### nicescroll
+### or
+#### 直接在服务器环境打开页面                                                                                                                                                                                                                                                                                                                  
